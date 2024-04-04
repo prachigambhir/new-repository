@@ -1,2 +1,2 @@
 # new-repository
-this is ny new repository.
+this is my new repository.
